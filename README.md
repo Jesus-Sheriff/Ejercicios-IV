@@ -3,4 +3,6 @@ Repository created to publish my personal homework of the subject Infraestructur
 
 [Ejercicios 1](https://github.com/Jesus-Sheriff/Ejercicios-IV/blob/master/1.md)
 
+[Ejercicios 2](https://github.com/Jesus-Sheriff/Ejercicios-IV/blob/master/2.md)
+
 
